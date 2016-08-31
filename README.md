@@ -13,12 +13,9 @@ New update: Flappy Angry Birds 1.6.0.1
 - Matilda's eggs cost 1 health/hit rather than pushing you to the matilda's cancer stage.
 --------------------*Note*--------------------
 - Play the game. Inbox me about bugs pls!! Help a brother out.
-- If you didnt take the course how to 101 then: 
-// Click the link above: line 21, this is line 23. 
-// The picture show you where to click next. 
-// When the download is completed. Click directly the file supposedly named "Flappy Angry Birds ..." from your browser (Chrome, Firefox, Internet Exlorer [ lol bro for real..? ], Safari, ...). If you still cant find anything to click, go into your download folder and find something like "Flappy Angry Birds 1.6.0.1" and double click it and boom!
-// Make sure you guys have JRE to run the game on Desktop.
+- Make sure you guys have JRE to run the game on Desktop.
 - I guarantee its free of viruses.
-- Enjoy! GL&HF. Also inbox me if you encounter bugs, pics about bugs would be appreciated.
+- Enjoy! GL&HF. 
+- Pics about bugs would be appreciated.
 - Sorry ios fans, still not be able to export it to ipa file and for yall but ill keep working on it. 
 *Good morning, its me, Thanksgiving.*
