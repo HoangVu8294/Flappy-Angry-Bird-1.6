@@ -2,6 +2,7 @@
 A Small Game for Android, iOS and Desktop
 
 New update: Flappy Angry Birds 1.6.0.1
+
 --------------------*Update log*--------------------
 - Bugs fixing.
 - Improve textures blending.
@@ -11,6 +12,7 @@ New update: Flappy Angry Birds 1.6.0.1
 - Red on steroid will be Terence who can take 5 hits. And its quite damn big so pretty eye-sighting i should say.
 - Cant activate power button when you are obviously powerful. 
 - Matilda's eggs cost 1 health/hit rather than pushing you to the matilda's cancer stage.
+- 
 --------------------*Note*--------------------
 - Play the game. Inbox me about bugs pls!! Help a brother out.
 - Make sure you guys have JRE to run the game on Desktop.
